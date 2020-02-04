@@ -1,2 +1,8 @@
-h1{
+.form,
+.greetings{
+    display: none;
+}
+
+.showing{
+    display: block;
 }
